@@ -1,3 +1,5 @@
+# Network Duke Multiplayer for MAC OSX
+
 1. Make a folder "~/.eduke32" eg. /Users/<Your-Mac-Login>/.eduke32 and download git repo to that folder
 2. Copy Eduke32 to your Applications folder
 3. Run Eduke32 to launch Duke3D
