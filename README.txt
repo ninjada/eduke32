@@ -6,6 +6,6 @@
 From Terminal (search terminal & run it): 
 
 mkdir ~/.eduke32; cd ~/.eduke32;
-git clone https://github.com/ninjada/eduke32.git;
+git clone https://github.com/ninjada/eduke32.git ~/.eduke32;
 cp -R EDuke32.app /Applications;
 open /Applications/EDuke32.app/
