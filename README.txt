@@ -10,4 +10,7 @@ Auto - copy the commands below and run them from Terminal (search terminal & ope
 mkdir ~/.eduke32; cd ~/.eduke32;
 git clone https://github.com/ninjada/eduke32.git ~/.eduke32;
 cp -R EDuke32.app /Applications;
-open /Applications/EDuke32.app/
+open /Applications/EDuke32.app/;
+
+Click Start to launch.
+Once in game use tilde (~) to bring down console and type "connect <host-server-ip-address>" to join a game
