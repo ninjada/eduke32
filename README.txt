@@ -1,4 +1,4 @@
-# Network Duke Multiplayer for MAC OSX
+## Network Duke Multiplayer for MAC OSX ##
 
 1. Make a folder "~/.eduke32" eg. /Users/<Your-Mac-Login>/.eduke32 and download git repo to that folder
 2. Copy Eduke32 to your Applications folder
@@ -12,5 +12,6 @@ git clone https://github.com/ninjada/eduke32.git ~/.eduke32;
 cp -R EDuke32.app /Applications;
 open /Applications/EDuke32.app/;
 
-Click Start to launch.
+Click on Start to launch game
+
 Once in game use tilde (~) to bring down console and type "connect <host-server-ip-address>" to join a game
